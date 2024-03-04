@@ -4,4 +4,4 @@ I've been captivated by programming ever since discovering its power in my Engin
 
 After college, I studied Computer Science in my spare time, completing Harvard's CS50x course. The recent advancements in artificial intelligence motivated me to create a Flask-based web application for my final project that would assist users in tailoring their resumes to job descriptions, [Resi.ai](https://github.com/jadonvanyo/resi.ai). Through this project, I discovered my passion for Python's beautiful simplicity and efficiency.
 
-**I am actively seeking opportunities in backend web development, with a particular interest in Python development.** If you're looking for a dedicated and passionate developer, I would be thrilled to connect and discuss how I can contribute to your team!
+**I am actively seeking opportunities in backend web development or Data Analyst, with a particular interest in Python development.** If you're looking for a dedicated and passionate developer, I would be thrilled to connect and discuss how I can contribute to your team!
